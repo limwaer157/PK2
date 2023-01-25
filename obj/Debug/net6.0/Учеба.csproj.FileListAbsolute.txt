@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\bin\Debug\net6.0\Учеба.exe
+C:\Users\User\Desktop\Учеба\bin\Debug\net6.0\Учеба.deps.json
+C:\Users\User\Desktop\Учеба\bin\Debug\net6.0\Учеба.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\bin\Debug\net6.0\Учеба.dll
+C:\Users\User\Desktop\Учеба\bin\Debug\net6.0\Учеба.pdb
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.dll
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\refint\Учеба.dll
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.pdb
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\Учеба.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\obj\Debug\net6.0\ref\Учеба.dll
